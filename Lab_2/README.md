@@ -74,9 +74,8 @@ collaboration-bonus: 5
 max-age: 500
 bush-probability-poisonous: 0.5(доданий)
 probability-die-poison: 0.5(доданий)
+
 ![Alt text](%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8F.png)
-
-
 
 ![!\[Alt text\](image-3.png)](%D0%93%D1%96%D1%81%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0.png)
 
